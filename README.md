@@ -11,7 +11,7 @@ index.html          single-page site
 styles.css          brand styles
 CNAME               custom domain for GitHub Pages (byteboost-tech.org)
 .nojekyll           serve files as-is, no Jekyll build
-assets/img/         logo, favicon, platform logos, participant photos
+         logo, favicon, platform logos, participant photos
 ```
 
 ## Brand palette
@@ -32,7 +32,7 @@ Motif: hexagons, taken from the logo sphere.
 
 ## Images still needed
 
-Add these to `assets/img/` (pages hide missing images automatically):
+Add these next to index.html (pages hide missing images automatically):
 
 - `nsf-logo.png` (official NSF logo from nsf.gov/policies/logo, shown in the header left of the ByteBoost logo)
 - `ACES.png`
